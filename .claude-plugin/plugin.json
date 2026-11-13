@@ -1,0 +1,8 @@
+{
+  "name": "learn",
+  "description": "Learn anything from first principles: study plans from a topic, job description or syllabus; rebuild or build projects by writing the code yourself; rederive a finished project's design. Progress lives in files so any session can resume.",
+  "version": "1.0.0",
+  "author": { "name": "aaldelaimy" },
+  "license": "MIT",
+  "keywords": ["learning", "tutor", "study-plan", "first-principles", "interview-prep"]
+}

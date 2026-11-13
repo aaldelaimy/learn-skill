@@ -1,0 +1,11 @@
+{
+  "name": "learn-skill",
+  "owner": { "name": "aaldelaimy" },
+  "plugins": [
+    {
+      "name": "learn",
+      "source": "./",
+      "description": "Learn anything from first principles, with progress kept in files."
+    }
+  ]
+}
